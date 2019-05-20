@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/JeffMeyers/Documents/SVN/MonogameFacesketball/Facesketball/Facesketball/Content/20px_1trans.png</File>
+    <File>C:/Users/JeffMeyers/Documents/SVN/MonogameFacesketball/Facesketball/Facesketball/Content/Food.png</File>
+    <File>C:/Users/JeffMeyers/Documents/SVN/MonogameFacesketball/Facesketball/Facesketball/Content/GhostHit.png</File>
+    <File>C:/Users/JeffMeyers/Documents/SVN/MonogameFacesketball/Facesketball/Facesketball/Content/pacmanSingle.png</File>
+    <File>C:/Users/JeffMeyers/Documents/SVN/MonogameFacesketball/Facesketball/Facesketball/Content/PurpleGhost.png</File>
+    <File>C:/Users/JeffMeyers/Documents/SVN/MonogameFacesketball/Facesketball/Facesketball/Content/RedGhost.png</File>
+    <File>C:/Users/JeffMeyers/Documents/SVN/MonogameFacesketball/Facesketball/Facesketball/Content/Smoke.png</File>
+    <File>C:/Users/JeffMeyers/Documents/SVN/MonogameFacesketball/Facesketball/Facesketball/Content/SmokeLight.png</File>
+    <File>C:/Users/JeffMeyers/Documents/SVN/MonogameFacesketball/Facesketball/Facesketball/Content/TealGhost.png</File>
+    <File>C:/Users/JeffMeyers/Documents/SVN/MonogameFacesketball/Facesketball/Facesketball/Content/Spritefont1.spritefont</File>
+    <File>C:/Users/JeffMeyers/Documents/SVN/MonogameFacesketball/Facesketball/Facesketball/Content/SpriteFontScore.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Segoe UI" Size="9" />
+  <Class Name="IntroGameLibrary.CelAnimationManager" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>CelAnimationManager.cs</FileName>
+      <HashCode>IAQCAAAAAOBAAwAAAAAAAAAQAAAAEAAAAAAAAAAAIAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="IntroGameLibrary.CelAnimation">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CelAnimationManager.cs</FileName>
+      <HashCode>CAAgAAAAAAAAAAICAAACAABEAAAASAAAxAAAAMgEAAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntroGameLibrary.DrawableAnimatableSprite">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DrawableAnimatableSprite.cs</FileName>
+      <HashCode>AAQAAAAAAIAAAwAAAAAEAAAAAAAAAAAAAAAAIAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntroGameLibrary.SpriteAnimation">
+    <Position X="4.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DrawableAnimatableSprite.cs</FileName>
+      <HashCode>AAAAAAEAAAAAAAAAAgAAAAAQAAAAAAAAAAAgAAgAIAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntroGameLibrary.DrawableSprite" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DrawableSprite.cs</FileName>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntroGameLibrary.FPS" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FPS.cs</FileName>
+      <HashCode>AAQAAAAAAAAAAwAAAAEBAAAAAAAAAAAAAJAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntroGameLibrary.GameConsole" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GameConsole.cs</FileName>
+      <HashCode>AgYCEEIAAAAAAwAAEAAAIAAgAAAABBAAAAIQAAAAEAQ=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="IntroGameLibrary.InputHandler" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>InputHandler.cs</FileName>
+      <HashCode>AAQAAAAIAQECAQEAAACAAAAAAASAAQAEAAAAAEAABAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="IntroGameLibrary.ButtonHandler" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>InputHandler.cs</FileName>
+      <HashCode>AAQAAAAAAQAAAAAAAAAAAAQAAAAAAAAAAAAAAAABAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntroGameLibrary.KeyboardHandler" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>InputHandler.cs</FileName>
+      <HashCode>AAQAAAIAIAAAAAAAAAAAAAAAAAAAAAAAACBAQAQAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntroGameLibrary.Sprite" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Sprite.cs</FileName>
+      <HashCode>AAQCAEEAAIAAAwCAECIAAABBGAAAAEgAAAAAAAAQAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntroGameLibrary.SpriteAnimationAdapter">
+    <Position X="8.5" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <FileName>DrawableAnimatableSprite.cs</FileName>
+      <HashCode>AABAACAAACBAAAAAAAAEAAAAACAACAAAAAAAIAEIICA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="IntroGameLibrary.CelCount" Collapsed="true">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CelAnimationManager.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="IntroGameLibrary.CelRange" Collapsed="true">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CelAnimationManager.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAAABAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="IntroGameLibrary.ICelAnimationManager">
+    <Position X="2.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CelAnimationManager.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IntroGameLibrary.IGameConsole" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GameConsole.cs</FileName>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAIAAAAAAABAAAAAAQAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IntroGameLibrary.IInputHandler" Collapsed="true">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>InputHandler.cs</FileName>
+      <HashCode>AAAAAAAAAQACAAAAAAAAAAAAAASAAQAAAAAAAAAABAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+</ClassDiagram>

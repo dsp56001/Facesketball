@@ -1,0 +1,116 @@
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Content\Arial.xnb
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Content\SpriteMarker.xnb
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\haarcascade_eye.xml
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Content\pacmanSingle.xnb
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Content\GhostHit.xnb
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Content\RedGhost.xnb
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Facesketball.exe
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Facesketball.pdb
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Emgu.CV.dll
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Emgu.CV.UI.dll
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Emgu.Util.dll
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\IntroGameLibrary.dll
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Emgu.CV.pdb
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Emgu.CV.xml
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Emgu.Util.pdb
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Emgu.Util.xml
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\IntroGameLibrary.pdb
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Emgu.CV.UI.pdb
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Emgu.CV.UI.xml
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\obj\x86\Debug\Facesketball.exe
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\obj\x86\Debug\Facesketball.pdb
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\highgui200.dll
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\cxcore200.dll
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Content\TealGhost.xnb
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\cvextern.dll
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Content\Smoke.xnb
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Content\SmokeLight.xnb
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Content\Food.xnb
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Facesketball_Server.exe
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Facesketball_Server.pdb
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Content\black_pixel.xnb
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Content\white_pixel.xnb
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Content\PurpleGhost.xnb
+C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball\bin\x86\Debug\Content\SpriteFontScore.xnb
+C:\user\facesketball\Facesketball\bin\x86\Debug\cvextern.dll
+C:\user\facesketball\Facesketball\bin\x86\Debug\Emgu.CV.dll
+C:\user\facesketball\Facesketball\bin\x86\Debug\Emgu.CV.UI.dll
+C:\user\facesketball\Facesketball\bin\x86\Debug\Emgu.Util.dll
+C:\user\facesketball\Facesketball\bin\x86\Debug\haarcascade_eye.xml
+C:\user\facesketball\Facesketball\bin\x86\Debug\haarcascade_frontalface_alt_tree.xml
+C:\user\facesketball\Facesketball\bin\x86\Debug\highgui200.dll
+C:\user\facesketball\Facesketball\bin\x86\Debug\Content\black_pixel.xnb
+C:\user\facesketball\Facesketball\bin\x86\Debug\Content\white_pixel.xnb
+C:\user\facesketball\Facesketball\bin\x86\Debug\Content\Arial.xnb
+C:\user\facesketball\Facesketball\bin\x86\Debug\Content\SpriteMarker.xnb
+C:\user\facesketball\Facesketball\bin\x86\Debug\cxcore200.dll
+C:\user\facesketball\Facesketball\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\user\facesketball\Facesketball\bin\x86\Debug\Content\SpriteFontScore.xnb
+C:\user\facesketball\Facesketball\bin\x86\Debug\Content\pacmanSingle.xnb
+C:\user\facesketball\Facesketball\bin\x86\Debug\Content\GhostHit.xnb
+C:\user\facesketball\Facesketball\bin\x86\Debug\Content\RedGhost.xnb
+C:\user\facesketball\Facesketball\bin\x86\Debug\Content\TealGhost.xnb
+C:\user\facesketball\Facesketball\bin\x86\Debug\Content\Smoke.xnb
+C:\user\facesketball\Facesketball\bin\x86\Debug\Content\SmokeLight.xnb
+C:\user\facesketball\Facesketball\bin\x86\Debug\Content\Food.xnb
+C:\user\facesketball\Facesketball\bin\x86\Debug\Content\PurpleGhost.xnb
+C:\user\facesketball\Facesketball\bin\x86\Debug\Facesketball.exe
+C:\user\facesketball\Facesketball\bin\x86\Debug\Facesketball.pdb
+C:\user\facesketball\Facesketball\bin\x86\Debug\Facesketball_Server.exe
+C:\user\facesketball\Facesketball\bin\x86\Debug\IntroGameLibrary.dll
+C:\user\facesketball\Facesketball\bin\x86\Debug\Emgu.Util.pdb
+C:\user\facesketball\Facesketball\bin\x86\Debug\Emgu.Util.xml
+C:\user\facesketball\Facesketball\bin\x86\Debug\Emgu.CV.pdb
+C:\user\facesketball\Facesketball\bin\x86\Debug\Emgu.CV.xml
+C:\user\facesketball\Facesketball\bin\x86\Debug\Emgu.CV.UI.pdb
+C:\user\facesketball\Facesketball\bin\x86\Debug\Emgu.CV.UI.xml
+C:\user\facesketball\Facesketball\bin\x86\Debug\IntroGameLibrary.pdb
+C:\user\facesketball\Facesketball\bin\x86\Debug\Facesketball_Server.pdb
+C:\user\facesketball\Facesketball\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\user\facesketball\Facesketball\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\user\facesketball\Facesketball\obj\x86\Debug\Facesketball.exe
+C:\user\facesketball\Facesketball\obj\x86\Debug\Facesketball.pdb
+C:\user\facesketball\Facesketball\bin\x86\Debug\Content\20px_1trans.xnb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\cvextern.dll
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Emgu.CV.dll
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Emgu.CV.UI.dll
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Emgu.Util.dll
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\haarcascade_eye.xml
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\highgui200.dll
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Content\black_pixel.xnb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Content\white_pixel.xnb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Content\Arial.xnb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Content\SpriteMarker.xnb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\cxcore200.dll
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Content\SpriteFontScore.xnb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Content\pacmanSingle.xnb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Content\GhostHit.xnb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Content\RedGhost.xnb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Content\TealGhost.xnb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Content\Smoke.xnb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Content\SmokeLight.xnb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Content\Food.xnb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Content\PurpleGhost.xnb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Content\20px_1trans.xnb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Facesketball.exe
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Facesketball.pdb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Facesketball_Server.exe
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\IntroGameLibrary.dll
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Emgu.Util.pdb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Emgu.Util.xml
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Emgu.CV.pdb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Emgu.CV.xml
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Emgu.CV.UI.pdb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Emgu.CV.UI.xml
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\IntroGameLibrary.pdb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\bin\x86\Debug\Facesketball_Server.pdb
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\obj\x86\Debug\Facesketball.exe
+C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball\obj\x86\Debug\Facesketball.pdb

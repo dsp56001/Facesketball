@@ -1,0 +1,58 @@
+Facesketball
+
+need Emgu http://sourceforge.net/projects/emgucv/files/emgucv/2.0.1.0/Emgu.CV.x86_2.0.1.0_windows_installer.zip/download
+
+Stats in Debug 
+
+core2 2.6 GHz
+	vid 320 x 240 7 fps UpdateFrameInterval 350
+	w face and motion 58-59fps
+
+core2 2.6 GHz
+	vid 640 x 480 7 fps UpdateFrameInterval 350
+	w face and motion 48-49fps
+	
+*UpdateFrameInterval sets how often the game samples the camera
+	
+Keys
+1 turn on face deaction
+2 turn on motion detection
+
+V draw video will slow that game down 
+A changes face dection to acurate and slow
+F toggle face detection find eyes
+S Scale Video
+[ change camera sampleing interval up
+] change camera sampling interval down
+	
+
+Multiplayer game
+join to network game?
+master machine?
+I'd like the physics objects to move between screens
+All game clients send sound events to a master machine?
+
+Screen Masks
+tool to mask out an area of the screen rectangles should be fine
+
+Sound 
+think about multiplayer sound? single sound machine? maybe the server amchine?
+
+Graphics
+get some ideas for graphics. 
+We need physics objects
+We need a particle system to view the motions on the motion detector.
+Face Controllers and a Particle system
+
+Motion Detection
+Make it faster it's better but I think we need separate time for the face detector and the motions detector
+Use the summed vector to infulenct the physics objects (kinda like wind) it migh tbe nice to use particle effects here
+
+FaceDetector
+Alow Multiple faces? I set it to find first face so right now it only detects one it's nice and fast this way
+Face Chases detected face istead of moving to the exact face location
+
+Camera
+Control size 320 x 240 is way faster
+Right now it uses the camera default and the dimensions are hard coded TODO fix hard coded dimensions
+Explore camera tweaks using statements and posible adjusting the frame rate

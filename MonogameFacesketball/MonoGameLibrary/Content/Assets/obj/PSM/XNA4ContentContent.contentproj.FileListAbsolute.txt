@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2012\Projects\MonoGameDemos\XNA4Content\XNA4ContentContent\obj\PSM\XNA4ContentContent.contentprojResolveAssemblyReference.cache
+C:\Users\jeff\Documents\MGP\XNA4Content\XNA4ContentContent\obj\PSM\XNA4ContentContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\SVN\GPMonogame3Trunk\jeff\XNA4Content\XNA4ContentContent\obj\PSM\XNA4ContentContent.contentprojResolveAssemblyReference.cache
+C:\User\SVN\GPMonogame3Trunk\jeff\XNA4Content\XNA4ContentContent\obj\PSM\XNA4ContentContent.contentprojResolveAssemblyReference.cache
