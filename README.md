@@ -2,5 +2,9 @@
 Facesketball
 
 Stange game uses mongame and emgu openCV and camera as a  game inpute controller 
-uses Emgu to detect motion from webcams
+
+uses Emguu to detect motion from webcams
+
 these motions move sprites in a multiplayer network game
+
+OLD emgu dll are inlcuded. Added a nuget package it builds again here are some path issues need to copy old DLLs to output folder
