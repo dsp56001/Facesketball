@@ -1,3 +1,0 @@
-C:\Users\jeff\Documents\Visual Studio 2005\Projects\IntoGameLibrary\IntoGameLibrary\Content\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\jeff\Documents\Visual Studio 2005\Projects\Intro\IntroCamera\IntoGameLibrary\IntoGameLibrary\Content\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\jeff\Documents\Visual Studio 2005\Projects\Intro\Intro3dShoot - Copy\IntoGameLibrary\IntoGameLibrary\Content\obj\x86\Debug\ResolveAssemblyReference.cache

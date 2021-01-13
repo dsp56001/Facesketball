@@ -1,4 +1,0 @@
-\\siam2\user\Tyler.Kendrick\pub\FACEGAME\facesketball\Facesketball_Server\Content\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\jeff\Documents\Visual Studio 2008\Projects\Facesketball\Facesketball_Server\Content\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\user\facesketball\Facesketball_Server\Content\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\t\Documents\Visual Studio 2008\Projects\FAcesketball\Facesketball_Server\Content\obj\x86\Debug\ResolveAssemblyReference.cache

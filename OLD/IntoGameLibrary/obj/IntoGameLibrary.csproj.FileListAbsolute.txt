@@ -1,8 +1,0 @@
-C:\Users\jeff\Documents\Visual Studio 2005\Projects\IntoGameLibrary\IntoGameLibrary\bin\x86\Debug\IntoGameLibrary.dll
-C:\Users\jeff\Documents\Visual Studio 2005\Projects\IntoGameLibrary\IntoGameLibrary\bin\x86\Debug\IntoGameLibrary.pdb
-C:\Users\jeff\Documents\Visual Studio 2005\Projects\IntoGameLibrary\IntoGameLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\jeff\Documents\Visual Studio 2005\Projects\IntoGameLibrary\IntoGameLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\jeff\Documents\Visual Studio 2005\Projects\IntoGameLibrary\IntoGameLibrary\obj\x86\Debug\IntoGameLibrary.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\jeff\Documents\Visual Studio 2005\Projects\IntoGameLibrary\IntoGameLibrary\obj\x86\Debug\IntoGameLibrary.dll
-C:\Users\jeff\Documents\Visual Studio 2005\Projects\IntoGameLibrary\IntoGameLibrary\obj\x86\Debug\IntoGameLibrary.pdb
-C:\Users\jeff\Documents\Visual Studio 2005\Projects\IntoGameLibrary\IntoGameLibrary\bin\x86\Debug\Content\Arial.xnb
