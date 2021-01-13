@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/src/GitHub/Facesketball/MonogameFacesketball/MonoGameLibrary/Content/Arial.spritefont","C:/src/GitHub/Facesketball/MonogameFacesketball/MonoGameLibrary/Content/bin/DesktopGL/Content/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21521,0.4349972
+"C:/src/GitHub/Facesketball/MonogameFacesketball/MonoGameLibrary/Content/SpriteMarker.png","C:/src/GitHub/Facesketball/MonogameFacesketball/MonoGameLibrary/Content/bin/DesktopGL/Content/SpriteMarker.xnb","TextureProcessor","Texture2DContent",232,185,0.0260012

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/src/GitHub/Facesketball/MonogameFacesketball/Facesketball/Facesketball/Content/Spritefont1.spritefont</SourceFile>
+  <SourceTime>2021-01-12T22:01:06.2996744-06:00</SourceTime>
+  <DestFile>C:/src/GitHub/Facesketball/MonogameFacesketball/Facesketball/Facesketball/Content/bin/Windows/Content/Spritefont1.xnb</DestFile>
+  <DestTime>2021-01-12T22:11:25.015765-06:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2019-07-19T12:50:46-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2019-07-19T12:50:46-05:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
