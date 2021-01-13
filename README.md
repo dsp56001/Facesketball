@@ -1,7 +1,7 @@
 # Facesketball
 Facesketball
 
-Stange game uses mongame and emgu openCV and camera as a  game inpute controller 
+Strange multplayer game that uses monogame and emgu openCV and camera as a  game inpute controller 
 
 uses Emguu to detect motion from webcams
 
